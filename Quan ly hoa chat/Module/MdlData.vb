@@ -662,27 +662,6 @@ Module MdlData
         End If
     End Sub
 
-    Public Sub OnlyNumericKeysMouseClick(ByRef tb As Windows.Forms.TextBox)
-        Dim txtbox As TextBox = CType(tb, TextBox)
-        Dim intcountChar As Integer = 0
-        Dim currentColumn As Integer
-        Dim Index As Integer = 0
-        Dim currentLine As Integer = 0
-        Index = txtbox.SelectionStart
-        currentLine = txtbox.GetLineFromCharIndex(Index)
-        currentColumn = Index - txtbox.GetFirstCharIndexFromLine(currentLine)
-        If txtbox.TextLength > 0 Then
-            If decimalSeparator_system = "," Then
-                intcountChar = CountCharacter(txtbox.Text, ".")
-                'txtbox.Text = RemoveCharacter(txtbox.Text, ".")
-            Else
-                intcountChar = CountCharacter(txtbox.Text, ",")
-                'txtbox.Text = RemoveCharacter(txtbox.Text, ",")
-            End If
-        End If
-        txtbox.SelectionStart = currentColumn + 0
-        '//
-    End Sub
 
     Public Sub OnlyNumericKeysLevave(ByRef tb As Windows.Forms.TextBox)
         Dim txtbox As TextBox = CType(tb, TextBox)

@@ -13,12 +13,6 @@ Public Class ListMenuDAL
         '//
         Call clsDev.LoadColumn(panel, FormName)
     End Sub
-    Public Sub PanelFooter(ByVal Panel As GridPanel, ByVal Data As String)
-        Panel.Footer.Visible = True
-        Panel.Footer.Text = Data
-        Panel.DefaultVisualStyles.FooterStyles.Default.Alignment = Style.Alignment.MiddleLeft
-        Panel.DefaultVisualStyles.FooterStyles.Default.Font = _MyFont_group
-    End Sub
 
     Public Function UPSET_XML(ByVal D As ListMenuDTO) As Boolean
         Dim Result As Boolean = False

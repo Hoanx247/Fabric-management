@@ -8,17 +8,14 @@ Imports System.IO
 Imports System.Runtime.InteropServices
 
 Public Class Clsconnect
-    Public cn As SqlConnection
-    Public cmd As SqlCommand
-    Public adapter As SqlDataAdapter
-    Public ds As DataSet
-    'Public intcheck As Integer, int_count As Integer, intcheck_scale As Integer
-    Public dtgiohethong As Date
-    Public _Mame_public As String = String.Empty
+    Private cn As SqlConnection
+    Private cmd As SqlCommand
+    Private adapter As SqlDataAdapter
+    Private ds As DataSet
+
     Public dt As DataTable
-    'Dim _Cls_command As String = String.Empty
     Dim dt_local As New DataTable
-    Public gsqlDataReader As SqlDataReader
+    Private gsqlDataReader As SqlDataReader
 
     '--
     ' QUERY PARAMETERS
@@ -47,7 +44,7 @@ Public Class Clsconnect
 
 
 #Region "Mo ket noi"
-    Public Sub EnableConnect()
+    Private Sub EnableConnect()
         Try
             Dim st As String
             ' Chuoi ket noi theo dac quyen he dieu hanh
