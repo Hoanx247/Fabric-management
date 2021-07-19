@@ -243,6 +243,7 @@
     <Compile Include="DONHANG-PHONGKINHDOANH\frmDonHang_MaMe.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Module\ClsCustomer.vb" />
     <Compile Include="NHATKYSANXUAT\frmTimeLine_List.Designer.vb">
       <DependentUpon>frmTimeLine_List.vb</DependentUpon>
     </Compile>
