@@ -1,0 +1,1598 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Quan Ly Xuong Nhuom (ST2020)
+</name>
+</assembly>
+<members>
+<member name="T:WindowsApplication1.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources._20140115025251377_easyicon_net_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources._20140115031102142_easyicon_net_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources._20140115031528115_easyicon_net_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources._20140118105618412_easyicon_net_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources._Exit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources._next">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.accept_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.add">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.add_item">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.add_item1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.add_page_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.add2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.add3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.application">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.application_down">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.attachment">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.attachment__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.back_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.back_241">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.barcode">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.BgSoftware_Textile_Main">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.blog_post_delete">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.blog_post_edit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.blue_button">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.blue_button1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.book">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.cd_add">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.chart">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.chart__3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.chart_pie">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.chart_pie1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.community_users">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.copy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.credit_cart">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.database_next">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.delete_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.delete_item">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.delete_item1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.digital_camcorder_add">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.dollar_currency_sign">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.download_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.edit_item">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.equalizer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.find">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.floppy_disc_add">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.folder_accept">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.form">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.form1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.Good_or_Tick_icon_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.HDWaterMark__Black">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.home">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.home__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.home1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.info">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.info__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.info_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.info1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.lock_off">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.mail_forward">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.microsoft_excel_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.mobile_phone_accept">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.note_book">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.note_edit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.notebook_accept">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.office_folders">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.office_folders1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.pin">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.previous">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.printer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.process">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.process__3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.process_accept">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.process_add">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.process1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.refresh">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.remove">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.repeat">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.report">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.sale">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.save">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.scanner_accept">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.scanner_add">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.search_globe">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.support">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.tablet">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.tag_blue">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.target">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.text_page">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.tool">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.user">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.user1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.users_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.window_accept">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="M:WindowsApplication1.frmDieuDoSanXuat_UPSET.SetNewScheme(System.Drawing.Color[])">
+ <summary>
+ Sets new colors for the given color table
+ </summary>
+ <param name="colors">Color Table</param>
+</member>
+<member name="M:WindowsApplication1.frmDieuDoSanXuat_UPSET.GetNewColor(System.Drawing.Color)">
+ <summary>
+ Gets a new RGB cycle color
+ </summary>
+ <param name="color1">Current color</param>
+ <returns>New cycled color</returns>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.calendarView1_MouseUp(System.Object,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles CalendarView MouseUp events
+ </summary>
+ <param name="sender">Varied sender</param>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.BaseViewMouseUp(System.Object,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles Day, Week, and Month View MouseUp events
+ </summary>
+ <param name="sender">BaseView</param>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.InContentMouseUp(DevComponents.DotNetBar.Schedule.BaseView,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles BaseView InContent MouseUp events
+ </summary>
+ <param name="view">BaseView</param>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.bi_CondensedClick(System.Object,System.EventArgs)">
+ <summary>
+ Handles InContentContextMenu Condensed selection
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.bi_PageNavigatorClick(System.Object,System.EventArgs)">
+ <summary>
+ Handles InContentContextMenu PageNavigator selection
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.IsDateSelected(System.DateTime,System.DateTime)">
+ <summary>
+ Determines if the given date range is within the currently selected
+ CalendarView selection range (DateSelectionStart to DateSelectionEnd)
+ </summary>
+ <param name="startDate">Start date range</param>
+ <param name="endDate">End date range</param>
+ <returns>True if selected</returns>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.miAdd_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles BaseView "Add Appointment" 
+ ContextMenu selections
+ </summary>
+ <param name="sender">MenuItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.InDayOfWeekHeaderMouseUp(DevComponents.DotNetBar.Schedule.BaseView,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles BaseView InDayOfWeekHeader MouseUp events.
+ </summary>
+ <param name="view">BaseView</param>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.miCalendarColor_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles selection of a ContextMenu color item
+ </summary>
+ <param name="sender">MenuItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.miShowSideBar_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles ContextMenu "Show" for the SideBar panel
+ </summary>
+ <param name="sender">MenuItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.miHideSideBar_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles ContextMenu "Hide" for the SideBar panel
+ </summary>
+ <param name="sender">MenuItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.miShowGridLines_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles ContextMenu "Show GridLines" for the Year View
+ </summary>
+ <param name="sender">MenuItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.miHideGridLines_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles ContextMenu "Hide GridLines" for the Year View
+ </summary>
+ <param name="sender">MenuItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.miCycleHighlight_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles ContextMenu "Cycle Highlight" for the Year View.  This
+ routine cycles through all the possible Day Link Highlight values
+ </summary>
+ <param name="sender">MenuItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.NextLinkStyle">
+ <summary>
+ Sets the next available Link style
+ </summary>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.YearViewDrawDayBackground(System.Object,DevComponents.DotNetBar.Schedule.YearViewDrawDayBackgroundEventArgs)">
+ <summary>
+ Draws the YearView day background
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.InSideBarMouseUp(DevComponents.DotNetBar.Schedule.BaseView,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles SideBar MouseUp events
+ </summary>
+ <param name="view">BaseView</param>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.InCondensedViewMouseUp(System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles Mouse Up events in the CondensedView
+ area of the control
+ </summary>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.AppointmentViewMouseUp(System.Object,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles AppointmentView MouseUp events
+ </summary>
+ <param name="sender">AppointmentView</param>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.miDelete_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles BaseView "Delete Appointment" 
+ ContextMenu selections
+ </summary>
+ <param name="sender">MenuItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.AllDayPanelMouseUp(System.Object,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles AllDayPanel MouseUp events
+ </summary>
+ <param name="sender">AllDayPanel</param>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.miShrink_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles "Shrink" ContextMenu selections
+ </summary>
+ <param name="sender">MenuItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.miGrow_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles "Grow" ContextMenu selections
+ </summary>
+ <param name="sender">MenuItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.miReset_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles "Reset" ContextMenu selections
+ </summary>
+ <param name="sender">MenuItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.TimeRulerPanelMouseUp(System.Object,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles TimeRulerPanel MouseUp events
+ </summary>
+ <param name="sender">TimeRulerPanel</param>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.miTimeDuration_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles "TimeSlotDuration" ContextMenu selections
+ </summary>
+ <param name="sender">MenuItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.TimeLineHeaderPanelMouseUp(System.Object,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles Mouse Up events in the TimeLineHeaderPanel.
+ 
+ (The TimeLineHeaderPanel is the area at the top of the
+ TimeLineView that holds the Period and Interval Headers.)
+ </summary>
+ <param name="sender">TimeLineHeaderPanel</param>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.InPeriodHeaderMouseUp(System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles MouseUp events in the Period Header
+ </summary>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.InPeriodHeaderHide_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles Period Header "Hide" menu selections
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.btnPeriodMinutes_CheckedChanged(System.Object,System.EventArgs)">
+ <summary>
+ Handles PeriodHeaderContextMenu "Minute" selection
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.btnPeriodHours_CheckedChanged(System.Object,System.EventArgs)">
+ <summary>
+ Handles PeriodHeaderContextMenu "Hours" selection
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.btnPeriodDays_CheckedChanged(System.Object,System.EventArgs)">
+ <summary>
+ Handles PeriodHeaderContextMenu "Days" selection
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.btnPeriodYears_CheckedChanged(System.Object,System.EventArgs)">
+ <summary>
+ Handles PeriodHeaderContextMenu "Years" selection
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.InIntervalHeaderMouseUp(System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles MouseUp events in the IntervalHeader
+ </summary>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.AddIntervalMinutes">
+ <summary>
+ Adds Interval "Minute" items
+ </summary>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.AddIntervalHours">
+ <summary>
+ Adds Interval "Hour" items
+ </summary>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.AddIntervalDays">
+ <summary>
+ Adds Interval "Day" items
+ </summary>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.AddIntervalYears">
+ <summary>
+ Adds Interval "Year" items
+ </summary>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.AddIntervalItem(System.Int32)">
+ <summary>
+ Adds individual Interval items
+ </summary>
+ <param name="i">Item to add</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.bi_IntervalClick(System.Object,System.EventArgs)">
+ <summary>
+ Handles Interval time selections
+ </summary>
+ <param name="sender">ButtonItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.btnIntervalHeaderShow_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles IntervalHeaderContextMenu "Show Header" selections
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.ShowContextMenu(DevComponents.DotNetBar.ButtonItem)">
+ <summary>
+ Shows the given ContextMenu
+ </summary>
+ <param name="cm">ContextMenu to show</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine_NhanCong.calendarView1_ItemDoubleClick(System.Object,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles Appointment View double clicks
+ </summary>
+ <param name="sender">AppointmentView</param>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.calendarView1_MouseUp(System.Object,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles CalendarView MouseUp events
+ </summary>
+ <param name="sender">Varied sender</param>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.BaseViewMouseUp(System.Object,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles Day, Week, and Month View MouseUp events
+ </summary>
+ <param name="sender">BaseView</param>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.InContentMouseUp(DevComponents.DotNetBar.Schedule.BaseView,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles BaseView InContent MouseUp events
+ </summary>
+ <param name="view">BaseView</param>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.bi_CondensedClick(System.Object,System.EventArgs)">
+ <summary>
+ Handles InContentContextMenu Condensed selection
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.bi_PageNavigatorClick(System.Object,System.EventArgs)">
+ <summary>
+ Handles InContentContextMenu PageNavigator selection
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.IsDateSelected(System.DateTime,System.DateTime)">
+ <summary>
+ Determines if the given date range is within the currently selected
+ CalendarView selection range (DateSelectionStart to DateSelectionEnd)
+ </summary>
+ <param name="startDate">Start date range</param>
+ <param name="endDate">End date range</param>
+ <returns>True if selected</returns>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.miAdd_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles BaseView "Add Appointment" 
+ ContextMenu selections
+ </summary>
+ <param name="sender">MenuItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.AddNewAppointment(System.DateTime,System.DateTime)">
+ <summary>
+ Adds a new appointment at the user selected time
+ </summary>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.InDayOfWeekHeaderMouseUp(DevComponents.DotNetBar.Schedule.BaseView,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles BaseView InDayOfWeekHeader MouseUp events.
+ </summary>
+ <param name="view">BaseView</param>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.miCalendarColor_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles selection of a ContextMenu color item
+ </summary>
+ <param name="sender">MenuItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.miShowSideBar_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles ContextMenu "Show" for the SideBar panel
+ </summary>
+ <param name="sender">MenuItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.miHideSideBar_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles ContextMenu "Hide" for the SideBar panel
+ </summary>
+ <param name="sender">MenuItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.miShowGridLines_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles ContextMenu "Show GridLines" for the Year View
+ </summary>
+ <param name="sender">MenuItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.miHideGridLines_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles ContextMenu "Hide GridLines" for the Year View
+ </summary>
+ <param name="sender">MenuItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.miCycleHighlight_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles ContextMenu "Cycle Highlight" for the Year View.  This
+ routine cycles through all the possible Day Link Highlight values
+ </summary>
+ <param name="sender">MenuItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.NextLinkStyle">
+ <summary>
+ Sets the next available Link style
+ </summary>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.YearViewDrawDayBackground(System.Object,DevComponents.DotNetBar.Schedule.YearViewDrawDayBackgroundEventArgs)">
+ <summary>
+ Draws the YearView day background
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.InSideBarMouseUp(DevComponents.DotNetBar.Schedule.BaseView,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles SideBar MouseUp events
+ </summary>
+ <param name="view">BaseView</param>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.InCondensedViewMouseUp(System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles Mouse Up events in the CondensedView
+ area of the control
+ </summary>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.AppointmentViewMouseUp(System.Object,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles AppointmentView MouseUp events
+ </summary>
+ <param name="sender">AppointmentView</param>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.miDelete_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles BaseView "Delete Appointment" 
+ ContextMenu selections
+ </summary>
+ <param name="sender">MenuItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.AllDayPanelMouseUp(System.Object,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles AllDayPanel MouseUp events
+ </summary>
+ <param name="sender">AllDayPanel</param>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.miShrink_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles "Shrink" ContextMenu selections
+ </summary>
+ <param name="sender">MenuItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.miGrow_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles "Grow" ContextMenu selections
+ </summary>
+ <param name="sender">MenuItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.miReset_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles "Reset" ContextMenu selections
+ </summary>
+ <param name="sender">MenuItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.TimeRulerPanelMouseUp(System.Object,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles TimeRulerPanel MouseUp events
+ </summary>
+ <param name="sender">TimeRulerPanel</param>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.miTimeDuration_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles "TimeSlotDuration" ContextMenu selections
+ </summary>
+ <param name="sender">MenuItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.TimeLineHeaderPanelMouseUp(System.Object,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles Mouse Up events in the TimeLineHeaderPanel.
+ 
+ (The TimeLineHeaderPanel is the area at the top of the
+ TimeLineView that holds the Period and Interval Headers.)
+ </summary>
+ <param name="sender">TimeLineHeaderPanel</param>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.InPeriodHeaderMouseUp(System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles MouseUp events in the Period Header
+ </summary>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.InPeriodHeaderHide_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles Period Header "Hide" menu selections
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.btnPeriodMinutes_CheckedChanged(System.Object,System.EventArgs)">
+ <summary>
+ Handles PeriodHeaderContextMenu "Minute" selection
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.btnPeriodHours_CheckedChanged(System.Object,System.EventArgs)">
+ <summary>
+ Handles PeriodHeaderContextMenu "Hours" selection
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.btnPeriodDays_CheckedChanged(System.Object,System.EventArgs)">
+ <summary>
+ Handles PeriodHeaderContextMenu "Days" selection
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.btnPeriodYears_CheckedChanged(System.Object,System.EventArgs)">
+ <summary>
+ Handles PeriodHeaderContextMenu "Years" selection
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.InIntervalHeaderMouseUp(System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles MouseUp events in the IntervalHeader
+ </summary>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.AddIntervalMinutes">
+ <summary>
+ Adds Interval "Minute" items
+ </summary>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.AddIntervalHours">
+ <summary>
+ Adds Interval "Hour" items
+ </summary>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.AddIntervalDays">
+ <summary>
+ Adds Interval "Day" items
+ </summary>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.AddIntervalYears">
+ <summary>
+ Adds Interval "Year" items
+ </summary>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.AddIntervalItem(System.Int32)">
+ <summary>
+ Adds individual Interval items
+ </summary>
+ <param name="i">Item to add</param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.bi_IntervalClick(System.Object,System.EventArgs)">
+ <summary>
+ Handles Interval time selections
+ </summary>
+ <param name="sender">ButtonItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.btnIntervalHeaderShow_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles IntervalHeaderContextMenu "Show Header" selections
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.ShowContextMenu(DevComponents.DotNetBar.ButtonItem)">
+ <summary>
+ Shows the given ContextMenu
+ </summary>
+ <param name="cm">ContextMenu to show</param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.SetNewScheme(System.Drawing.Color[])">
+ <summary>
+ Sets new colors for the given color table
+ </summary>
+ <param name="colors">Color Table</param>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.GetNewColor(System.Drawing.Color)">
+ <summary>
+ Gets a new RGB cycle color
+ </summary>
+ <param name="color1">Current color</param>
+ <returns>New cycled color</returns>
+</member>
+<member name="M:WindowsApplication1.FrmXacNhanGioLam.calendarView1_ItemDoubleClick(System.Object,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles Appointment View double clicks
+ </summary>
+ <param name="sender">AppointmentView</param>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmNhatKySanXuat_Update_CongDoan.Super_Dgv_ItemDrag(System.Object,DevComponents.DotNetBar.SuperGrid.GridItemDragEventArgs)">
+ <summary>
+ Handles the initiation of SuperGrid
+ Drag and Drop operations.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApplication1.frmNhatKySanXuat_Update_CongDoan.Super_Dgv_DragOver(System.Object,System.Windows.Forms.DragEventArgs)">
+ <summary>
+ Handles SuperGrid DragOver events
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApplication1.frmNhatKySanXuat_Update_CongDoan.Super_Dgvl_DragDrop(System.Object,System.Windows.Forms.DragEventArgs)">
+ <summary>
+ Handles SuperGrid DragDrop events
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApplication1.frmNhatKySanXuat_Update_CongDoan.DropSgCell(DevComponents.DotNetBar.SuperGrid.GridCell,System.Collections.Generic.IEnumerable{DevComponents.DotNetBar.SuperGrid.GridElement})">
+ <summary>
+ Handles Dropping data on a GridCell
+ </summary>
+ <param name="cell"></param>
+ <param name="cells"></param>
+</member>
+<member name="M:WindowsApplication1.frmNhatKySanXuat_Update_CongDoan.DropSgRow(System.Windows.Forms.DragEventArgs,DevComponents.DotNetBar.SuperGrid.GridRow,System.Collections.Generic.IEnumerable{DevComponents.DotNetBar.SuperGrid.GridElement})">
+ <summary>
+ Handles dropping row data on a SuperGrid
+ </summary>
+ <param name="e"></param>
+ <param name="row"></param>
+ <param name="rows"></param>
+</member>
+<member name="M:WindowsApplication1.frmNhatKySanXuat_Update_CongDoan.CopySgRows(DevComponents.DotNetBar.SuperGrid.GridRow,System.Collections.Generic.IEnumerable{DevComponents.DotNetBar.SuperGrid.GridElement})">
+ <summary>
+ Handles copying GridRow data into a SuperGrid
+ </summary>
+ <param name="row"></param>
+ <param name="rows"></param>
+</member>
+<member name="M:WindowsApplication1.frmNhatKySanXuat_Update_CongDoan.MoveSgRows(DevComponents.DotNetBar.SuperGrid.GridRow,System.Collections.Generic.IEnumerable{DevComponents.DotNetBar.SuperGrid.GridElement})">
+ <summary>
+ Handles moving GridRows within the same SuperGrid
+ </summary>
+ <param name="row"></param>
+ <param name="rows"></param>
+</member>
+<member name="M:WindowsApplication1.frmNhatKySanXuat_Update_CongDoan.DropSgColumnHeader(DevComponents.DotNetBar.SuperGrid.GridColumnHeader,System.Collections.Generic.IEnumerable{DevComponents.DotNetBar.SuperGrid.GridElement},System.Drawing.Point)">
+ <summary>
+ Handles dropping data onto a ColumnHeader
+ </summary>
+ <param name="item"></param>
+ <param name="items"></param>
+ <param name="pt"></param>
+</member>
+<member name="M:WindowsApplication1.frmNhatKySanXuat_Update_CongDoan.DropSgColumns(DevComponents.DotNetBar.SuperGrid.GridColumn,System.Collections.Generic.IEnumerable{DevComponents.DotNetBar.SuperGrid.GridElement})">
+ <summary>
+ Handles dropping data onto a ColumnHeader
+ </summary>
+</member>
+<member name="M:WindowsApplication1.frmNhatKySanXuat_Update_CongDoan.DropSgPanel(DevComponents.DotNetBar.SuperGrid.GridPanel,System.Collections.Generic.IEnumerable{DevComponents.DotNetBar.SuperGrid.GridElement})">
+ <summary>
+ Handles dropping data on a GridPanel
+ </summary>
+ <param name="panel"></param>
+ <param name="rows"></param>
+</member>
+<member name="M:WindowsApplication1.frmNhatKySanXuat_Update_CongDoan.DropCell(System.Windows.Forms.DragEventArgs,DevComponents.DotNetBar.SuperGrid.GridCell)">
+ <summary>
+ Handles dropping non-grid data on a grid cell
+ </summary>
+ <param name="e"></param>
+ <param name="cell"></param>
+</member>
+<member name="M:WindowsApplication1.frmNhatKySanXuat_Update_CongDoan.DropRow(System.Windows.Forms.DragEventArgs,DevComponents.DotNetBar.SuperGrid.GridRow)">
+ <summary>
+ Handles dropping non-grid data on a grid row
+ </summary>
+ <param name="e"></param>
+ <param name="row"></param>
+</member>
+<member name="M:WindowsApplication1.frmNhatKySanXuat_Update_CongDoan.DropColumnHeader(System.Windows.Forms.DragEventArgs,DevComponents.DotNetBar.SuperGrid.GridColumnHeader,System.Drawing.Point)">
+ <summary>
+ Handles dropping non-grid data on a grid column header
+ </summary>
+ <param name="e"></param>
+ <param name="header"></param>
+ <param name="pt"></param>
+</member>
+<member name="M:WindowsApplication1.frmNhatKySanXuat_Update_CongDoan.SuperGridControlDragLeave(System.Object,System.EventArgs)">
+ <summary>
+ Handles SuperGrid DragLeave events
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApplication1.frmNhatKySanXuat_Update_CongDoan.ClearDragHighlight">
+ <summary>
+ Clears all temporary grid highlights
+ </summary>
+</member>
+<member name="M:WindowsApplication1.frmNhatKySanXuat_Update_CongDoan.SetNewScheme(System.Drawing.Color[])">
+ <summary>
+ Sets new colors for the given color table
+ </summary>
+ <param name="colors">Color Table</param>
+</member>
+<member name="M:WindowsApplication1.frmNhatKySanXuat_Update_CongDoan.GetNewColor(System.Drawing.Color)">
+ <summary>
+ Gets a new RGB cycle color
+ </summary>
+ <param name="color1">Current color</param>
+ <returns>New cycled color</returns>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.calendarView1_MouseUp(System.Object,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles CalendarView MouseUp events
+ </summary>
+ <param name="sender">Varied sender</param>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.BaseViewMouseUp(System.Object,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles Day, Week, and Month View MouseUp events
+ </summary>
+ <param name="sender">BaseView</param>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.InContentMouseUp(DevComponents.DotNetBar.Schedule.BaseView,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles BaseView InContent MouseUp events
+ </summary>
+ <param name="view">BaseView</param>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.bi_CondensedClick(System.Object,System.EventArgs)">
+ <summary>
+ Handles InContentContextMenu Condensed selection
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.bi_PageNavigatorClick(System.Object,System.EventArgs)">
+ <summary>
+ Handles InContentContextMenu PageNavigator selection
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.IsDateSelected(System.DateTime,System.DateTime)">
+ <summary>
+ Determines if the given date range is within the currently selected
+ CalendarView selection range (DateSelectionStart to DateSelectionEnd)
+ </summary>
+ <param name="startDate">Start date range</param>
+ <param name="endDate">End date range</param>
+ <returns>True if selected</returns>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.miAdd_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles BaseView "Add Appointment" 
+ ContextMenu selections
+ </summary>
+ <param name="sender">MenuItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.InDayOfWeekHeaderMouseUp(DevComponents.DotNetBar.Schedule.BaseView,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles BaseView InDayOfWeekHeader MouseUp events.
+ </summary>
+ <param name="view">BaseView</param>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.miCalendarColor_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles selection of a ContextMenu color item
+ </summary>
+ <param name="sender">MenuItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.miShowSideBar_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles ContextMenu "Show" for the SideBar panel
+ </summary>
+ <param name="sender">MenuItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.miHideSideBar_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles ContextMenu "Hide" for the SideBar panel
+ </summary>
+ <param name="sender">MenuItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.miShowGridLines_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles ContextMenu "Show GridLines" for the Year View
+ </summary>
+ <param name="sender">MenuItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.miHideGridLines_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles ContextMenu "Hide GridLines" for the Year View
+ </summary>
+ <param name="sender">MenuItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.miCycleHighlight_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles ContextMenu "Cycle Highlight" for the Year View.  This
+ routine cycles through all the possible Day Link Highlight values
+ </summary>
+ <param name="sender">MenuItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.NextLinkStyle">
+ <summary>
+ Sets the next available Link style
+ </summary>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.YearViewDrawDayBackground(System.Object,DevComponents.DotNetBar.Schedule.YearViewDrawDayBackgroundEventArgs)">
+ <summary>
+ Draws the YearView day background
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.InSideBarMouseUp(DevComponents.DotNetBar.Schedule.BaseView,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles SideBar MouseUp events
+ </summary>
+ <param name="view">BaseView</param>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.InCondensedViewMouseUp(System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles Mouse Up events in the CondensedView
+ area of the control
+ </summary>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.AppointmentViewMouseUp(System.Object,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles AppointmentView MouseUp events
+ </summary>
+ <param name="sender">AppointmentView</param>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.miDelete_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles BaseView "Delete Appointment" 
+ ContextMenu selections
+ </summary>
+ <param name="sender">MenuItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.AllDayPanelMouseUp(System.Object,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles AllDayPanel MouseUp events
+ </summary>
+ <param name="sender">AllDayPanel</param>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.miShrink_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles "Shrink" ContextMenu selections
+ </summary>
+ <param name="sender">MenuItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.miGrow_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles "Grow" ContextMenu selections
+ </summary>
+ <param name="sender">MenuItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.miReset_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles "Reset" ContextMenu selections
+ </summary>
+ <param name="sender">MenuItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.TimeRulerPanelMouseUp(System.Object,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles TimeRulerPanel MouseUp events
+ </summary>
+ <param name="sender">TimeRulerPanel</param>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.miTimeDuration_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles "TimeSlotDuration" ContextMenu selections
+ </summary>
+ <param name="sender">MenuItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.TimeLineHeaderPanelMouseUp(System.Object,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles Mouse Up events in the TimeLineHeaderPanel.
+ 
+ (The TimeLineHeaderPanel is the area at the top of the
+ TimeLineView that holds the Period and Interval Headers.)
+ </summary>
+ <param name="sender">TimeLineHeaderPanel</param>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.InPeriodHeaderMouseUp(System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles MouseUp events in the Period Header
+ </summary>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.InPeriodHeaderHide_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles Period Header "Hide" menu selections
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.btnPeriodMinutes_CheckedChanged(System.Object,System.EventArgs)">
+ <summary>
+ Handles PeriodHeaderContextMenu "Minute" selection
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.btnPeriodHours_CheckedChanged(System.Object,System.EventArgs)">
+ <summary>
+ Handles PeriodHeaderContextMenu "Hours" selection
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.btnPeriodDays_CheckedChanged(System.Object,System.EventArgs)">
+ <summary>
+ Handles PeriodHeaderContextMenu "Days" selection
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.btnPeriodYears_CheckedChanged(System.Object,System.EventArgs)">
+ <summary>
+ Handles PeriodHeaderContextMenu "Years" selection
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.InIntervalHeaderMouseUp(System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles MouseUp events in the IntervalHeader
+ </summary>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.AddIntervalMinutes">
+ <summary>
+ Adds Interval "Minute" items
+ </summary>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.AddIntervalHours">
+ <summary>
+ Adds Interval "Hour" items
+ </summary>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.AddIntervalDays">
+ <summary>
+ Adds Interval "Day" items
+ </summary>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.AddIntervalYears">
+ <summary>
+ Adds Interval "Year" items
+ </summary>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.AddIntervalItem(System.Int32)">
+ <summary>
+ Adds individual Interval items
+ </summary>
+ <param name="i">Item to add</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.bi_IntervalClick(System.Object,System.EventArgs)">
+ <summary>
+ Handles Interval time selections
+ </summary>
+ <param name="sender">ButtonItem</param>
+ <param name="e">EventArgs</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.btnIntervalHeaderShow_Click(System.Object,System.EventArgs)">
+ <summary>
+ Handles IntervalHeaderContextMenu "Show Header" selections
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.ShowContextMenu(DevComponents.DotNetBar.ButtonItem)">
+ <summary>
+ Shows the given ContextMenu
+ </summary>
+ <param name="cm">ContextMenu to show</param>
+</member>
+<member name="M:WindowsApplication1.frmTimeLine.calendarView1_ItemDoubleClick(System.Object,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Handles Appointment View double clicks
+ </summary>
+ <param name="sender">AppointmentView</param>
+ <param name="e">MouseEventArgs</param>
+</member>
+<member name="T:WindowsApplication1.List_CauHinh_Excel.MyGridButtonXEditControl">
+ <summary>
+ GridButtonXEditControl Class that controls the
+ ButtonX color initialization and user button clicks.
+ </summary>
+</member>
+<member name="M:WindowsApplication1.List_CauHinh_Excel.MyGridButtonXEditControl.#ctor">
+ <summary>
+ Constructor
+ </summary>
+</member>
+<member name="M:WindowsApplication1.List_CauHinh_Excel.MyGridButtonXEditControl.InitializeContext(DevComponents.DotNetBar.SuperGrid.GridCell,DevComponents.DotNetBar.SuperGrid.Style.CellVisualStyle)">
+ <summary>
+ Initializes the color table for the button
+ </summary>
+ <param name="cell"></param>
+ <param name="style"></param>
+</member>
+<member name="M:WindowsApplication1.List_CauHinh_Excel.MyGridButtonXEditControl.MyGridButtonXEditControlClick(System.Object,System.EventArgs)">
+ <summary>
+ Handles user clicks of the button
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApplication1.List_CauHinh_Excel.GetNetworkFolders(System.Windows.Forms.FolderBrowserDialog,System.Boolean)">
+ <summary>
+ This function will get the Folderdialog as parameter and return the Selected
+ Folders UNC path. 
+ Ex: \\Server1\TestFolder
+ </summary>
+ <param name="oFolderBrowserDialog"></param>
+ <returns>it will return the Selected Folders UNC Path</returns>
+ <remarks></remarks>
+</member>
+<member name="T:WindowsApplication1.List_frmName.MyGridButtonXEditControl">
+ <summary>
+ GridButtonXEditControl Class that controls the
+ ButtonX color initialization and user button clicks.
+ </summary>
+</member>
+<member name="M:WindowsApplication1.List_frmName.MyGridButtonXEditControl.#ctor">
+ <summary>
+ Constructor
+ </summary>
+</member>
+<member name="M:WindowsApplication1.List_frmName.MyGridButtonXEditControl.InitializeContext(DevComponents.DotNetBar.SuperGrid.GridCell,DevComponents.DotNetBar.SuperGrid.Style.CellVisualStyle)">
+ <summary>
+ Initializes the color table for the button
+ </summary>
+ <param name="cell"></param>
+ <param name="style"></param>
+</member>
+<member name="M:WindowsApplication1.List_frmName.MyGridButtonXEditControl.MyGridButtonXEditControlClick(System.Object,System.EventArgs)">
+ <summary>
+ Handles user clicks of the button
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:WindowsApplication1.List_Congdoan.SetNewScheme(System.Drawing.Color[])">
+ <summary>
+ Sets new colors for the given color table
+ </summary>
+ <param name="colors">Color Table</param>
+</member>
+<member name="M:WindowsApplication1.List_Congdoan.GetNewColor(System.Drawing.Color)">
+ <summary>
+ Gets a new RGB cycle color
+ </summary>
+ <param name="color1">Current color</param>
+ <returns>New cycled color</returns>
+</member>
+</members>
+</doc>
